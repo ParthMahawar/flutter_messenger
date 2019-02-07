@@ -1,6 +1,6 @@
 # flutter_messenger
 
-messaging
+Flutter messaging client
 
 ## Getting Started
 
