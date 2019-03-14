@@ -396,7 +396,6 @@ class PhoneNumbers extends StatelessWidget{
         itemCount: contact.phones.length,
         itemBuilder: (context, index){
           return Text(contact.phones.elementAt(index).value);
-          //TODO: actually figure out how to duct tape these APIs
         },
       )
     );
